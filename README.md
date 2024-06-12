@@ -34,4 +34,5 @@
 
 View my Certifications and Badges [here](https://www.credly.com/users/heman77/badges)
 KCNA Certification [here](https://www.credly.com/badges/d4fd3ed5-e65e-46a7-bd08-5119e4412ef8/public_url)
-
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
