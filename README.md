@@ -32,8 +32,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hkdas21&show_icons=true&heme=tokyonight&locale=en" alt="hkdas21" /></p>
 
-View my Certifications and Badges [here](https://www.credly.com/users/heman77/badges)
-KCNA Certification [here](https://www.credly.com/badges/d4fd3ed5-e65e-46a7-bd08-5119e4412ef8/public_url)
 <!--START_SECTION:badges-->
 [![Instructor Recognition - 50 Classes Delivered](https://images.credly.com/size/100x100/images/8aec6ab1-d349-4f0c-8e08-79a5dbe79362/image.png)](http://www.credly.com/badges/03afeebd-1fee-4a1b-b6c9-b8eed5d33622 "Instructor Recognition - 50 Classes Delivered")
 [![Microsoft Global Hackathon 2022](https://images.credly.com/size/100x100/images/c7e9e836-0b6f-410d-b5fb-48297aa9c310/image.png)](http://www.credly.com/badges/0bea0656-bdab-4c2e-8d79-330ea8fb5faf "Microsoft Global Hackathon 2022")
