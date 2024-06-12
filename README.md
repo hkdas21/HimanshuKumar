@@ -16,7 +16,7 @@
 
 - 💬 Ask me about how to get started and get productive in **Azure, DevOps, GenAI**
 
-- 📫 How to reach me **himanshu.kumar77@outlook.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
