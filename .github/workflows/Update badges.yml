@@ -21,7 +21,7 @@ jobs:
         uses: pemtajo/badge-readme@main
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          CREDLY_USER: himanshu.kumar77@outlook.com
+          CREDLY_USER: heman77
           CREDLY_SORT: RECENT
           BADGE_SIZE: 100
           NUMBER_LAST_BADGES: 20
