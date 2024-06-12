@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **Cloud Native tech and open source contribution.**
 
-- 💬 Ask me about **Azure, DevOps, GenAI**
+- 💬 Ask me about how to get started and get productive in **Azure, DevOps, GenAI**
 
 - 📫 How to reach me **himanshu.kumar77@outlook.com**
 
