@@ -23,5 +23,5 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           CREDLY_USER: heman77
           CREDLY_SORT: RECENT
-          BADGE_SIZE: 60x60
+          BADGE_SIZE: 100
           NUMBER_LAST_BADGES: 20
