@@ -32,4 +32,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hkdas21&show_icons=true&heme=tokyonight&locale=en" alt="hkdas21" /></p>
 
-View my Verified Badges here [https://www.credly.com/users/heman77/badges]
+View my Certifications and Badges [here](https://www.credly.com/users/heman77/badges)
