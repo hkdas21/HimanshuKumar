@@ -33,3 +33,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hkdas21&show_icons=true&heme=tokyonight&locale=en" alt="hkdas21" /></p>
 
 View my Certifications and Badges [here](https://www.credly.com/users/heman77/badges)
+KCNA Certification [here](https://www.credly.com/badges/d4fd3ed5-e65e-46a7-bd08-5119e4412ef8/public_url)
+
