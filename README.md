@@ -31,7 +31,7 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hkdas21&show_icons=true&heme=tokyonight&locale=en" alt="hkdas21" /></p>
-Certifications and Badges
+
 <!--START_SECTION:badges-->
 [![Instructor Recognition - 50 Classes Delivered](https://images.credly.com/size/40x40/images/8aec6ab1-d349-4f0c-8e08-79a5dbe79362/image.png)](http://www.credly.com/badges/03afeebd-1fee-4a1b-b6c9-b8eed5d33622 "Instructor Recognition - 50 Classes Delivered")
 [![Instructor Recognition - 1,000 Students Reached](https://images.credly.com/size/10x10/images/730ac404-e0c0-4188-b80c-80c2102ec367/image.png)](http://www.credly.com/badges/1ea83394-e8f2-4d7c-b160-3c1805c71c17 "Instructor Recognition - 1,000 Students Reached")
